@@ -1,4 +1,4 @@
-# Calculating "top of atmosphere" reflectance from PlanetScope imager
+# Calculating "top of atmosphere" reflectance from PlanetScope images
 
 # Image access
 
